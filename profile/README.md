@@ -1,2 +1,4 @@
-# [ithandel.pl](https://ithandel.pl)
-ithandel.pl - Komputery / Serwis / Drukarki
+# [ithandel.pl - Komputery / Serwis / Drukarki](https://ithandel.pl)
+
+![ithandel.pl - komputery, drukarki, serwis](logo.jpg "ithandel.pl")
+
